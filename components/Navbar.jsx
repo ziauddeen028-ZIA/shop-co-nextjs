@@ -3,7 +3,7 @@ import { FiSearch, FiShoppingCart, FiUser, FiChevronDown } from "react-icons/fi"
 export const Navbar = () => {
     return (
         <div>
-            <nav className="flex justify-around items-center px-9 py-4  w-full bg-white text-black">
+            <nav className="flex justify-around items-center px-20 py-4  w-full bg-white text-black">
                 <div>
                     <h1 className="font-extrabold text-4xl">SHOP.CO</h1>
                 </div>
